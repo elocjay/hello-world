@@ -5,4 +5,7 @@ Practice makes perfect
 + <i> I can! </i>
 + Now I know what that does.
 - But what does this do?  Apparently the same thing.
-
++ Now I know how to make bullet points.
++ <u> I wish I could remember more about coding </u>
++ I have a lot to learn
++ [Vanderbilt](http://www.vanderbilt.edu)
