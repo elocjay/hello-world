@@ -8,4 +8,4 @@ Practice makes perfect
 + Now I know how to make bullet points.
 + <u> I wish I could remember more about coding </u>
 + I have a lot to learn
-+ [http://vanderbilt.edu](Vanderbilt)
++ [Vanderbilt](http://www.vanderbilt.edu)
